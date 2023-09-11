@@ -1,3 +1,3 @@
-module github.com/Picker86/slsa-test
+module github.com/OTARIS/slsa-test
 
 go 1.18
